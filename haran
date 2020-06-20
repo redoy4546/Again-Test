@@ -1,0 +1,30 @@
+[33mcommit b977faa08bdd9474640658c8cc230bea2e478cf2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 1692fe1 2c41e51
+Author: Your Name <you@example.com>
+Date:   Sat Jun 20 13:29:59 2020 +0600
+
+    Merge branch 'hope'
+
+[33mcommit 1692fe16540cf9ebbf9dd0d5dd26afc7f78e5fa0[m
+Author: Your Name <you@example.com>
+Date:   Sat Jun 20 13:26:09 2020 +0600
+
+    Version 3 wrong hope
+
+[33mcommit 2c41e518fd855f72ae081178315f4abc29b120b1[m[33m ([m[1;32mhope[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Sat Jun 20 13:20:48 2020 +0600
+
+    Version hope 0.1
+
+[33mcommit 9cbe324c90ff0ab4bcea7b16d5fbd7078c9f8c10[m
+Author: Your Name <you@example.com>
+Date:   Sat Jun 20 13:14:40 2020 +0600
+
+    Version 2
+
+[33mcommit b962fd607e54c809aac36003fa1c8ed3a5e677f0[m
+Author: Your Name <you@example.com>
+Date:   Sat Jun 20 13:08:22 2020 +0600
+
+    Version 0.1
